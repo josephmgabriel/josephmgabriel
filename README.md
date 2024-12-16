@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a historian who works at Florida State University. I work at the medical school. I don't know much about coding but I'm starting to get interested in working with people who do. 
 <!--
 **josephmgabriel/josephmgabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
