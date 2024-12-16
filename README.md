@@ -1,5 +1,7 @@
 ## Hi there 👋
-I'm a historian who works at Florida State University. I work at the medical school. I don't know much about coding but I'm starting to get interested in working with people who do. 
+I'm a historian who works at Florida State University. I work at the medical school. I research the history of drugs and related technologies, the pharmaceutical industry, public health, and related topics. I don't know much about coding but I'm starting to work with people who do. So feel free to reach out if you might be interested in collaborating with someone who spends most of their time in the past.  :upside_down_face:
+
+
 <!--
 **josephmgabriel/josephmgabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
